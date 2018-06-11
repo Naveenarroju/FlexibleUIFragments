@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FlexibleUIFragments</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="titles">
+        <item>Sharabh Avatar</item>
+        <item>Grihpati Avatar</item>
+        <item>ISHAN</item>
+        <item>Hanuman Avatar</item>
+
+    </string-array>
+    <string-array name="description">
+        <item>This form of the Lord Shiva was the 6th avatar of him.</item>
+        <item>Grihpati avatar of the Lord Shiva was the 7th avatar of him.</item>
+        <item>In the Vishwaroop Kalpa, Ishan form of the Lord Shiva and Saraswati were manifested</item>
+        <item>hanuman avatar is considered as the supreme avatar of him.
+            Lord Shiva has taken this avatar during the time Lord Rama to present a good example of the Lord and
+            Bhakt in front of the people.</item>
+    </string-array>
+
+</resources>
